@@ -29,13 +29,22 @@ Este repositório contém:
 
 ## Contribuidores
 
-Este projeto foi realizado pelos estudantes de Engenharia da Universidade de Brasília.
+Este projeto foi realizado pelos estudantes de Engenharia da Universidade de Brasília. Aqui estão os detalhes dos contribuidores:
 
-Bruno Bragança - Engenharia de Software
-Danilo Sarmento - Engenharia de Software
-Helena Emery - Engenharia Aeroespacial
-Renato Medeiros - Engenharia Aeroespacial
-Carlos Henrique - Engenharia de Software
+- **Bruno Bragança**
+  - Curso: Engenharia de Software
+
+- **Danilo Sarmento**
+  - Curso: Engenharia de Software
+
+- **Helena Emery**
+  - Curso: Engenharia Aeroespacial
+
+- **Renato Medeiros**
+  - Curso: Engenharia Aeroespacial
+
+- **Carlos Henrique**
+  - Curso: Engenharia de Software
 
 ## Observações
 
